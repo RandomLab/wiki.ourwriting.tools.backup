@@ -2,15 +2,12 @@
 title: home
 description: 
 published: true
-date: 2021-10-20T13:14:03.443Z
+date: 2021-10-24T08:52:17.323Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-16T12:54:26.316Z
 ---
 
-![arrivée-dun-chaton-à-la-maison-768x547.jpeg](/arrivée-dun-chaton-à-la-maison-768x547.jpeg)
+# index of the wiki
 
-# home
-Your content here
-
-cool
+[First day in Tallinn](/en/WS_Day1/home)
