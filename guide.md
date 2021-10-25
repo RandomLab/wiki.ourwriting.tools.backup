@@ -2,11 +2,12 @@
 title: guide to the wiki
 description: 
 published: true
-date: 2021-10-25T06:16:38.716Z
+date: 2021-10-25T12:37:50.115Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T05:26:23.691Z
 ---
+
 
 ## Create a new page
 
@@ -27,3 +28,7 @@ Here a small reminder :
 -	title and subtitle is the # symbol
 
 More info here [wikpedia](https://en.wikipedia.org/wiki/Markdown)
+
+## How to name files
+
+For now, we will use the Kebab case to name the files.
