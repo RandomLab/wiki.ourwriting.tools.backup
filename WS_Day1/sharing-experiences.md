@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:48:25.996Z
+date: 2021-10-25T08:50:19.027Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -26,7 +26,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - no rules for being polite in video calls
 - all in the same boat
 - solving softwares issues with google
-- mix private and public situations 
+- mix private and public make weird situations 
 
 > Best
 {.is-success}
