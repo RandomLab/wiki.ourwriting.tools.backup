@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:09:49.325Z
+date: 2021-10-25T08:12:52.379Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -16,8 +16,12 @@ dateCreated: 2021-10-25T08:05:59.933Z
 {.is-warning}
 
 - Exchange not intuitive
-- Battle for bandwith
-
+- Battle for bandwidth
+- video link too late
+- remote job interview
 
 > Best
 {.is-success}
+
+- work whenewere wherethat
+- 
