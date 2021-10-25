@@ -2,7 +2,7 @@
 title: 00 Presentation
 description: 
 published: true
-date: 2021-10-25T15:47:56.217Z
+date: 2021-10-25T15:49:01.960Z
 tags: eka
 editor: markdown
 dateCreated: 2021-10-25T12:26:52.499Z
