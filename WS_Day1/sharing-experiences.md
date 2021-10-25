@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:59:01.336Z
+date: 2021-10-25T09:00:41.657Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -48,5 +48,5 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - validated infos vs fake
 - simple tools are hard to build
 - start hacking 
-- 
+- force to learn by yourself
 
