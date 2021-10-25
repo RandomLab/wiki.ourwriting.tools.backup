@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:50:49.448Z
+date: 2021-10-25T08:52:18.412Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -28,6 +28,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - solving softwares issues with google
 - mix private and public make weird situations 
 - 4h videos lecture
+- never change a running system
 
 > Best
 {.is-success}
