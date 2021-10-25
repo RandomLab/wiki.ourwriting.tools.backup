@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T09:18:04.889Z
+date: 2021-10-25T09:18:18.011Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -31,7 +31,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - never change a running system
 - coffee on laptop
 - user testing complicated
-- meeting in person outside work
+- no meeting in person outside work
 
 > Best
 {.is-success}
