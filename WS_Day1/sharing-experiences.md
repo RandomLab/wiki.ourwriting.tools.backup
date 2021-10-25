@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:19:42.948Z
+date: 2021-10-25T08:21:46.568Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -23,10 +23,12 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - frontal teaching on video
 - accidental microphone on
 - hard to get feedback on zoom
+- computer broken > everything is off
 
 > Best
 {.is-success}
 
+- act backgrounds out > game
 - work whenewere wherethat
 - connect to different lectures
 - zapping lectures
