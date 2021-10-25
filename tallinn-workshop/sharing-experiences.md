@@ -2,10 +2,10 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T11:17:36.226Z
-tags: experiences
+date: 2021-10-25T12:42:49.526Z
+tags: 
 editor: markdown
-dateCreated: 2021-10-25T08:05:59.933Z
+dateCreated: 2021-10-25T11:53:49.817Z
 ---
 
 > Worst
@@ -55,5 +55,3 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - force to learn by yourself
 - peaceful moment for introvert people
 - save time when you need to move a lot
-
-(Add pictures here??)
