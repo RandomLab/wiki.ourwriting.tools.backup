@@ -2,7 +2,7 @@
 title: guide to the wiki
 description: 
 published: true
-date: 2021-10-25T05:30:22.896Z
+date: 2021-10-25T05:33:15.756Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T05:26:23.691Z
@@ -16,5 +16,10 @@ Please, make sure to use the markdown editor and not the WYSIWIG and HTML ones, 
 
 ## insert link and image
 
+
 ## Markdown
 You can find a *markdown formatting help* at the left bottom of the navbar in the markdown editor (the question mark icon)
+Here a small reminder :
+-	title and subtitle is the # symbol
+
+More info here [wikpedia](https://en.wikipedia.org/wiki/Markdown)
