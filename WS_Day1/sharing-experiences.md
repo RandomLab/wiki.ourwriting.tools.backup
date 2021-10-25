@@ -2,8 +2,8 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:29:28.185Z
-tags: 
+date: 2021-10-25T08:34:27.568Z
+tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
 ---
