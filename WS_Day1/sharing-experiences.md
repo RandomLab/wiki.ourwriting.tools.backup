@@ -2,12 +2,11 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T09:20:59.481Z
+date: 2021-10-25T11:17:34.891Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
 ---
-
 
 > Worst
 {.is-warning}
@@ -57,4 +56,4 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - peaceful moment for introvert people
 - save time when you need to move a lot
 
-
+(Add pictures here??)
