@@ -2,13 +2,13 @@
 title: tallinn-workshop
 description: 
 published: true
-date: 2021-10-25T12:56:41.631Z
+date: 2021-10-25T12:57:52.656Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T12:26:52.499Z
 ---
 
-## Introduction
+## Index
 This is the first workshop for the project digital tools.
 
 We started the day 1 by [sharing our experiences online](/en/tallinn-workshop/sharing-experiences)
