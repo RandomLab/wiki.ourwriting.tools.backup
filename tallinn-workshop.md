@@ -2,7 +2,7 @@
 title: tallinn-workshop
 description: 
 published: true
-date: 2021-10-25T12:45:45.201Z
+date: 2021-10-25T12:46:11.541Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T12:26:52.499Z
