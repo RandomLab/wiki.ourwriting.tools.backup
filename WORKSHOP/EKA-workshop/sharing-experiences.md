@@ -2,7 +2,7 @@
 title: Sharing experiences
 description: 
 published: true
-date: 2021-10-25T13:41:08.245Z
+date: 2021-10-25T13:47:16.576Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T11:53:49.817Z
