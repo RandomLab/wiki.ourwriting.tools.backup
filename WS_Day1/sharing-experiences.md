@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:42:52.750Z
+date: 2021-10-25T08:47:29.497Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -28,6 +28,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - no rules for being polite in video calls
 - all in the same boat
 - solving softwares issues with google
+- mix private and public situations 
 
 > Best
 {.is-success}
@@ -45,5 +46,6 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - all files whenewere you are
 - validated infos vs fake
 - simple tools are hard to build
-
+- start hacking 
+- 
 
