@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:50:19.027Z
+date: 2021-10-25T08:50:49.448Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -27,6 +27,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - all in the same boat
 - solving softwares issues with google
 - mix private and public make weird situations 
+- 4h videos lecture
 
 > Best
 {.is-success}
