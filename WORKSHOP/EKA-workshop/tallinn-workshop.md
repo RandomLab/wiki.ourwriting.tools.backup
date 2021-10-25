@@ -1,8 +1,8 @@
 ---
-title: tallinn-workshop
+title: WORKSHOP/EKA-workshop/index
 description: 
 published: true
-date: 2021-10-25T12:57:52.656Z
+date: 2021-10-25T13:42:16.902Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T12:26:52.499Z
