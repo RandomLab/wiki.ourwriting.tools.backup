@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:34:27.568Z
+date: 2021-10-25T08:38:14.715Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -27,6 +27,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - foreign os
 - no rules for being polite in video calls
 - all in the same boat
+- solving softwares issues with google
 
 > Best
 {.is-success}
