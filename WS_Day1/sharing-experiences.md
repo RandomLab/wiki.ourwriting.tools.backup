@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T09:19:46.923Z
+date: 2021-10-25T09:20:59.481Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -34,6 +34,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - no meeting in person outside work
 - concentration problem
 - lost knowledges from the school
+- procranistation is a posture at home
 
 > Best
 {.is-success}
