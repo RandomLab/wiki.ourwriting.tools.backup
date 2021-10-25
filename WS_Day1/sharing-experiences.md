@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:25:06.382Z
+date: 2021-10-25T08:26:18.958Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -25,6 +25,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - hard to get feedback on zoom
 - computer broken > everything is off
 - foreign os
+- no rules for being polite in video calls
 
 > Best
 {.is-success}
