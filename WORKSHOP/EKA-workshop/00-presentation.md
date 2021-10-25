@@ -2,7 +2,7 @@
 title: 00 Presentation
 description: 
 published: true
-date: 2021-10-25T15:49:01.960Z
+date: 2021-10-25T16:05:48.208Z
 tags: eka
 editor: markdown
 dateCreated: 2021-10-25T12:26:52.499Z
@@ -32,4 +32,8 @@ At work ...
 
 ![atmos_04-pm.jpg](/atmos_04-pm.jpg)
 
+![atmos_03-pm.jpg](/atmos_03-pm.jpg)
 
+![atmos_06-pm.jpg](/atmos_06-pm.jpg)
+
+![atmos_07-pm.jpg](/atmos_07-pm.jpg)
