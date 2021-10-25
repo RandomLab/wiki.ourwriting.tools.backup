@@ -2,7 +2,7 @@
 title: Matinée du 25 octobre 2021
 description: 
 published: true
-date: 2021-10-25T12:30:57.820Z
+date: 2021-10-25T12:41:32.812Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T12:21:45.182Z
@@ -10,4 +10,4 @@ dateCreated: 2021-10-25T12:21:45.182Z
 
 # 10/25/2021 - Morning
 
-Début de la doc
+The participants started by presenting their bests and worsts experiences[sharing-experiences](/en/tallinn-workshop/sharing-experiences) online. 
