@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:47:29.497Z
+date: 2021-10-25T08:47:56.660Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -10,11 +10,10 @@ dateCreated: 2021-10-25T08:05:59.933Z
 
 ## Experiences
 
-- How we depends on internet connection
-
 > Worst
 {.is-warning}
 
+- How we depends on internet connection
 - Exchange not intuitive
 - Battle for bandwidth
 - video link too late
