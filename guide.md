@@ -2,7 +2,7 @@
 title: guide to the wiki
 description: 
 published: true
-date: 2021-10-25T12:41:19.928Z
+date: 2021-10-25T12:42:43.151Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T05:26:23.691Z
@@ -26,6 +26,9 @@ For the navigation, you will use internal links and write path to the page that 
 You can find a *markdown formatting help* at the left bottom of the navbar in the markdown editor (the question mark icon)
 Here a small reminder :
 -	title and subtitle is the # symbol
+- italic is *
+- bold is **
+
 
 More info here [wikpedia](https://en.wikipedia.org/wiki/Markdown)
 
