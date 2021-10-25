@@ -2,7 +2,7 @@
 title: index
 description: 
 published: true
-date: 2021-10-25T08:33:18.164Z
+date: 2021-10-25T11:16:28.972Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-24T09:22:30.582Z
@@ -14,4 +14,4 @@ dateCreated: 2021-10-24T09:22:30.582Z
 [guide](/en/guide)
 
 ## First Day at EKA
-[Best and Worst experiences](/en/WS_Day1/sharing-experiences)
+[Introduction](/en/WS_Day1/Introduction)
