@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:17:34.054Z
+date: 2021-10-25T08:17:47.116Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -30,4 +30,4 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - connect to different lectures
 - zapping lectures
 - peer interacting
-- real feedback sometimes
+- real / direct feedback sometimes
