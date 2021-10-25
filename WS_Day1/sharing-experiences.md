@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:52:18.412Z
+date: 2021-10-25T08:59:01.336Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -29,6 +29,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - mix private and public make weird situations 
 - 4h videos lecture
 - never change a running system
+- coffee in laptop
 
 > Best
 {.is-success}
