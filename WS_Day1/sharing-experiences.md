@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:38:47.601Z
+date: 2021-10-25T08:39:35.561Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -43,5 +43,6 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - headache
 - sound is firing
 - all files whenewere you are
+- validated infos vs fake
 
 
