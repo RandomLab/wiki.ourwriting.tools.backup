@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T09:00:41.657Z
+date: 2021-10-25T09:10:52.701Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -49,4 +49,6 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - simple tools are hard to build
 - start hacking 
 - force to learn by yourself
+- peaceful moment for introvert people
+
 
