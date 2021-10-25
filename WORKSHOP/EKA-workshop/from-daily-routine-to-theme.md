@@ -1,8 +1,8 @@
 ---
-title: From daily routine to theme
+title: 02 From daily routine to theme
 description: 
 published: true
-date: 2021-10-25T13:01:09.879Z
+date: 2021-10-25T13:52:02.371Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T12:56:04.158Z
