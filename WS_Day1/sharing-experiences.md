@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:22:08.210Z
+date: 2021-10-25T08:25:06.382Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -24,6 +24,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - accidental microphone on
 - hard to get feedback on zoom
 - computer broken > everything is off
+- foreign os
 
 > Best
 {.is-success}
@@ -35,3 +36,4 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - peer interacting
 - real / direct feedback sometimes
 - faced experience with digital tools
+- background
