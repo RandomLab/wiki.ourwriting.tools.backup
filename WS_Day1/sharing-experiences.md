@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T09:18:41.509Z
+date: 2021-10-25T09:19:46.923Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -33,6 +33,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - user testing complicated
 - no meeting in person outside work
 - concentration problem
+- lost knowledges from the school
 
 > Best
 {.is-success}
