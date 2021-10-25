@@ -1,8 +1,8 @@
 ---
-title: WORKSHOP/EKA-workshop/index
+title: index
 description: 
 published: true
-date: 2021-10-25T13:42:16.902Z
+date: 2021-10-25T13:44:07.949Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T12:26:52.499Z
