@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:17:50.811Z
+date: 2021-10-25T08:19:42.948Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -22,6 +22,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - relation between teacher/student > off ?
 - frontal teaching on video
 - accidental microphone on
+- hard to get feedback on zoom
 
 > Best
 {.is-success}
