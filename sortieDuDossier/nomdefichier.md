@@ -2,7 +2,7 @@
 title: Nom de page dans la partie "title", lors de la création d'une nouvelle page
 description: 
 published: true
-date: 2021-10-25T11:43:21.206Z
+date: 2021-10-25T11:43:22.740Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T11:21:00.375Z
