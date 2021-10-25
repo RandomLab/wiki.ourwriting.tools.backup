@@ -2,7 +2,7 @@
 title: 01 Sharing experiences
 description: 
 published: true
-date: 2021-10-25T13:51:28.757Z
+date: 2021-10-25T15:37:32.149Z
 tags: eka
 editor: markdown
 dateCreated: 2021-10-25T11:53:49.817Z
@@ -35,6 +35,8 @@ dateCreated: 2021-10-25T11:53:49.817Z
 - lost knowledges from the school
 - procranistation is a posture at home
 
+![postit-worst.jpg](/postit-worst.jpg)
+
 > Best
 {.is-success}
 
@@ -56,4 +58,4 @@ dateCreated: 2021-10-25T11:53:49.817Z
 - peaceful moment for introvert people
 - save time when you need to move a lot
 
-![post-its.jpg](/post-its.jpg)
+![postit-best.jpg](/postit-best.jpg)
