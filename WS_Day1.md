@@ -1,8 +1,8 @@
 ---
-title: first day
+title: Workshop
 description: 
 published: true
-date: 2021-10-25T11:23:41.753Z
+date: 2021-10-25T11:24:03.191Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:31:11.896Z
