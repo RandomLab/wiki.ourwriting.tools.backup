@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:16:23.358Z
+date: 2021-10-25T08:17:24.120Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -21,6 +21,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - remote job interview
 - relation between teacher/student > off ?
 - frontal teaching on video
+- accidental microphone one
 
 > Best
 {.is-success}
@@ -29,3 +30,4 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - connect to different lectures
 - zapping lectures
 - peer interacting
+- real feedback sometimes
