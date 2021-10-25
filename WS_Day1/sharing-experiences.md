@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:15:06.851Z
+date: 2021-10-25T08:15:26.471Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -20,6 +20,7 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - video link too late
 - remote job interview
 - relation between teacher/student > off ?
+- frontal teaching on video
 
 > Best
 {.is-success}
