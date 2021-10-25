@@ -2,13 +2,12 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:47:56.660Z
+date: 2021-10-25T08:48:25.996Z
 tags: experiences
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
 ---
 
-## Experiences
 
 > Worst
 {.is-warning}
