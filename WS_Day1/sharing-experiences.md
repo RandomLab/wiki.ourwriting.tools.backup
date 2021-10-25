@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:12:52.379Z
+date: 2021-10-25T08:14:20.308Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -19,9 +19,10 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - Battle for bandwidth
 - video link too late
 - remote job interview
+- relation between teacher/student > off ?
 
 > Best
 {.is-success}
 
 - work whenewere wherethat
-- 
+- r
