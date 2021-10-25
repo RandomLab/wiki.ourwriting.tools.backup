@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:15:26.471Z
+date: 2021-10-25T08:16:23.358Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -28,3 +28,4 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - work whenewere wherethat
 - connect to different lectures
 - zapping lectures
+- peer interacting
