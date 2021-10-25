@@ -2,7 +2,7 @@
 title: Experiences
 description: 
 published: true
-date: 2021-10-25T08:28:02.564Z
+date: 2021-10-25T08:29:28.185Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T08:05:59.933Z
@@ -39,3 +39,5 @@ dateCreated: 2021-10-25T08:05:59.933Z
 - real / direct feedback sometimes
 - faced experience with digital tools
 - background
+- headache
+- sound is firing
