@@ -1,8 +1,8 @@
 ---
 title: 03 Inspirative Talks
-description: 
+description: Talks from Students and Mentors
 published: true
-date: 2021-10-26T09:17:50.932Z
+date: 2021-10-26T09:20:43.178Z
 tags: talks, presentation
 editor: markdown
 dateCreated: 2021-10-26T08:21:15.754Z
