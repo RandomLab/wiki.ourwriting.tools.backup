@@ -2,7 +2,7 @@
 title: 05 Final discussion
 description: WORKSHOP in EKA, DAY 02-PM
 published: true
-date: 2021-10-26T14:28:00.402Z
+date: 2021-10-26T14:30:51.360Z
 tags: eka, presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
@@ -43,5 +43,9 @@ dateCreated: 2021-10-26T13:54:52.859Z
 # motivation and creativity (music)
 
 - the limit between work and personnal life
-- 
+- not increase productivity but improve break time 
+- filter informations > keep motiviation
+- catch attention / motivate between teams
+- using game to create competition ?
+- the sound can be the main element ?
 
