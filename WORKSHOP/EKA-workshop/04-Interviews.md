@@ -1,8 +1,8 @@
 ---
 title: 04 Interviews with designers
-description: Interviews with Pipedrive, Trinidad Wiseman, DUX
+description: WORKSHOP in EKA, DAY 02-PM
 published: true
-date: 2021-10-26T11:23:22.868Z
+date: 2021-10-26T14:27:04.775Z
 tags: interviews
 editor: markdown
 dateCreated: 2021-10-26T11:22:47.561Z
