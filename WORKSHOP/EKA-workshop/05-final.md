@@ -2,8 +2,8 @@
 title: 05 Final discussion
 description: 
 published: true
-date: 2021-10-26T13:56:01.373Z
-tags: 
+date: 2021-10-26T13:57:45.047Z
+tags: presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
 ---
@@ -14,7 +14,7 @@ dateCreated: 2021-10-26T13:54:52.859Z
 - compare Discord / Instagram / Zoom
 - dig more in topics
 - social hierachy inside plateform
-- generation
+- generation gaps
 
 # emotional bonds
 
