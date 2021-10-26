@@ -2,11 +2,14 @@
 title: 05 Final discussion
 description: WORKSHOP in EKA, DAY 02-PM
 published: true
-date: 2021-10-26T14:40:16.557Z
+date: 2021-10-26T14:41:09.113Z
 tags: eka, presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
 ---
+
+![teamwork02.jpg](/teamwork02.jpg)
+![teamwork03.jpg](/teamwork03.jpg)
 
 # social behaviour online, politics
 
@@ -17,6 +20,9 @@ dateCreated: 2021-10-26T13:54:52.859Z
 - generation gaps
 - address issues
 - mesure time of speaking in debate
+
+![teamwork04.jpg](/teamwork04.jpg)
+![teamwork05.jpg](/teamwork05.jpg)
 
 # emotional bonds
 
@@ -50,4 +56,3 @@ dateCreated: 2021-10-26T13:54:52.859Z
 - the sound can be the main element ?
 - sound can bring attention
 - collaborative games
-- don't force people to play
