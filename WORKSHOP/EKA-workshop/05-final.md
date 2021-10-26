@@ -2,7 +2,7 @@
 title: 05 Final discussion
 description: 
 published: true
-date: 2021-10-26T14:09:28.913Z
+date: 2021-10-26T14:11:25.158Z
 tags: presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
@@ -20,6 +20,7 @@ dateCreated: 2021-10-26T13:54:52.859Z
 
 # emotional bonds
 
+- 
 
 
 # work/life balance
