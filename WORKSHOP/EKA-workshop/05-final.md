@@ -2,7 +2,7 @@
 title: 05 Final discussion
 description: 
 published: true
-date: 2021-10-26T14:16:00.301Z
+date: 2021-10-26T14:18:55.418Z
 tags: presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
@@ -25,7 +25,7 @@ dateCreated: 2021-10-26T13:54:52.859Z
 - remote communication practicies lacks of that
 - small products can help
 - bring rituals from physical world to remote
-
+- why do we want to solve this issue ? 
 
 # work/life balance
 
@@ -40,5 +40,6 @@ dateCreated: 2021-10-26T13:54:52.859Z
 - dedicated / not dedicated time
 - looking at the group as a remote worker ?
 
-
 # motivation and creativity (music)
+
+
