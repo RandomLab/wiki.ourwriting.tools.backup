@@ -2,7 +2,7 @@
 title: 03 Inspirative Talks
 description: Talks from Students and Mentors
 published: true
-date: 2021-10-26T09:20:43.178Z
+date: 2021-10-26T11:28:59.027Z
 tags: talks, presentation
 editor: markdown
 dateCreated: 2021-10-26T08:21:15.754Z
@@ -28,3 +28,16 @@ dateCreated: 2021-10-26T08:21:15.754Z
 
 > WIP { .is-warning }
 
+# Presentations of the 3 students researchers of ESADSE
+## Using controller to produce graphics contents
+## Hugo Saksik
+
+> WIP { .is-warning }
+
+## Create drawing tools 
+## Samantha Zannoni
+> WIP { .is-warning }
+
+## Association
+## Laura Ego
+> WIP { .is-warning }
