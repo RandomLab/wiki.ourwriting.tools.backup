@@ -2,8 +2,8 @@
 title: 05 Final discussion
 description: 
 published: true
-date: 2021-10-26T14:18:55.418Z
-tags: presentation, teams
+date: 2021-10-26T14:25:55.126Z
+tags: eka, presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
 ---
@@ -42,4 +42,6 @@ dateCreated: 2021-10-26T13:54:52.859Z
 
 # motivation and creativity (music)
 
+- the limit between work and personnal life
+- 
 
