@@ -2,7 +2,7 @@
 title: 05 Final discussion
 description: 
 published: true
-date: 2021-10-26T14:07:34.489Z
+date: 2021-10-26T14:09:28.913Z
 tags: presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
@@ -33,6 +33,7 @@ dateCreated: 2021-10-26T13:54:52.859Z
 - 4 days of work is efficient
 - specificity of creation ?
 - dedicated / not dedicated time
+- looking at the group as a remote worker ?
 
 
 # motivation and creativity (music)
