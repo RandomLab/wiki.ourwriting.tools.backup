@@ -1,8 +1,8 @@
 ---
-title: Final
+title: 05 Final discussion
 description: 
 published: true
-date: 2021-10-26T13:54:52.859Z
+date: 2021-10-26T13:56:01.373Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
