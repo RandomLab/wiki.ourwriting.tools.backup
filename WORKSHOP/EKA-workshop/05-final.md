@@ -2,7 +2,7 @@
 title: 05 Final discussion
 description: 
 published: true
-date: 2021-10-26T13:57:56.073Z
+date: 2021-10-26T14:01:46.613Z
 tags: presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
@@ -16,9 +16,14 @@ dateCreated: 2021-10-26T13:54:52.859Z
 - social hierachy inside plateform
 - generation gaps
 - address issues
+- mesure time of speaking in debate
 
 # emotional bonds
 
+
+
 # work/life balance
+
+- accidentaly working late, mix private/work life
 
 # motivation and creativity (music)
