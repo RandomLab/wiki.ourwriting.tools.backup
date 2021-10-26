@@ -2,7 +2,7 @@
 title: 05 Final discussion
 description: WORKSHOP in EKA, DAY 02-PM
 published: true
-date: 2021-10-26T14:31:56.822Z
+date: 2021-10-26T14:35:35.257Z
 tags: eka, presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
@@ -49,3 +49,4 @@ dateCreated: 2021-10-26T13:54:52.859Z
 - using game to create competition ?
 - the sound can be the main element ?
 - sound can bring attention
+- collaborative games
