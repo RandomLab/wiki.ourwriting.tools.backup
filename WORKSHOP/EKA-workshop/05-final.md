@@ -2,7 +2,7 @@
 title: 05 Final discussion
 description: 
 published: true
-date: 2021-10-26T14:11:25.158Z
+date: 2021-10-26T14:16:00.301Z
 tags: presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
@@ -20,7 +20,11 @@ dateCreated: 2021-10-26T13:54:52.859Z
 
 # emotional bonds
 
-- 
+- what help you to work ? Rituals
+- small actions that people do
+- remote communication practicies lacks of that
+- small products can help
+- bring rituals from physical world to remote
 
 
 # work/life balance
