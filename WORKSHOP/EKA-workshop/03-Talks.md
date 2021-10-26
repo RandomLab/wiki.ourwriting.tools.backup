@@ -1,8 +1,8 @@
 ---
 title: 03 Inspirative Talks
-description: Talks from Students and Mentors
+description: WORKSHOP in EKA, DAY 02-AM
 published: true
-date: 2021-10-26T11:28:59.027Z
+date: 2021-10-26T14:26:34.823Z
 tags: talks, presentation
 editor: markdown
 dateCreated: 2021-10-26T08:21:15.754Z
