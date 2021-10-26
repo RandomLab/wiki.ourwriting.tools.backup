@@ -2,15 +2,15 @@
 title: guide to the wiki
 description: 
 published: true
-date: 2021-10-26T08:36:31.882Z
+date: 2021-10-26T08:37:12.275Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T05:26:23.691Z
 ---
 
 
-> work in progress
-{.is-warning }
+> work in progress {.is-warning}
+
 
 ## Create a new page
 
