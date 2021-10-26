@@ -2,7 +2,7 @@
 title: 05 Final discussion
 description: 
 published: true
-date: 2021-10-26T13:57:45.047Z
+date: 2021-10-26T13:57:56.073Z
 tags: presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
@@ -15,6 +15,7 @@ dateCreated: 2021-10-26T13:54:52.859Z
 - dig more in topics
 - social hierachy inside plateform
 - generation gaps
+- address issues
 
 # emotional bonds
 
