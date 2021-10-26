@@ -2,7 +2,7 @@
 title: guide to the wiki
 description: 
 published: true
-date: 2021-10-26T07:48:41.077Z
+date: 2021-10-26T07:51:16.555Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T05:26:23.691Z
@@ -17,7 +17,9 @@ You can create a new page anytime and afterwards, you can modify and move it.
 Be careful to choose a correct path (no illegal caracters), if your path indicate that your new page is in a new folder, it will be create automatically;
 Please, make sure to use the markdown editor and not the WYSIWIG and HTML ones, we need the same type of documents.
 
-[Video here (in french)](https://www.youtube.com/watch?v=Fr04tT99zLE&list=PL4ZDQd5jvnn4scBTj_EY8R6-hsgXC88-S)
+[Introduction in english](https://docs.requarks.io/guide/intro)
+
+[Video in french](https://www.youtube.com/watch?v=Fr04tT99zLE&list=PL4ZDQd5jvnn4scBTj_EY8R6-hsgXC88-S)
 
 ## Insert link and image, put together the navigation
 
