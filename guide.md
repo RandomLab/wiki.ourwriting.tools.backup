@@ -2,7 +2,7 @@
 title: guide to the wiki
 description: 
 published: true
-date: 2021-10-26T08:37:12.275Z
+date: 2021-10-27T06:40:02.043Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T05:26:23.691Z
@@ -44,9 +44,5 @@ More info here [wikpedia](https://en.wikipedia.org/wiki/Markdown)
 For now, we will use the Kebab case to name the files. Files and folders names must be written all in lowercase, with dashes separating words such as following :
 
 `example-name-of-file`
-
-## Ressources
-
-[Open Emoji](https://openmoji.org/library/)
 
 
