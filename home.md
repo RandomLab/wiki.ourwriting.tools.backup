@@ -2,7 +2,7 @@
 title: index
 description: 
 published: true
-date: 2021-10-27T06:37:05.922Z
+date: 2021-10-27T06:38:34.312Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T12:34:40.204Z
@@ -14,4 +14,4 @@ dateCreated: 2021-10-25T12:34:40.204Z
 [guide](/en/guide)
 
 ## The workshop in EKA, Tallinn
-[00-presentation](/en/WORKSHOP/EKA-workshop/00-presentation)
+[EKA-workshop](/en/WORKSHOP/EKA-workshop)
