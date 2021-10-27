@@ -1,8 +1,8 @@
 ---
-title: Team Projects
+title: 06 Team Projects
 description: 
 published: true
-date: 2021-10-27T07:52:07.971Z
+date: 2021-10-27T07:54:40.471Z
 tags: projects
 editor: markdown
 dateCreated: 2021-10-27T07:52:07.971Z
