@@ -1,8 +1,8 @@
 ---
-title: Eka Workshop Index
+title: EKA Workshop Index
 description: Index of the EKA workshop session
 published: true
-date: 2021-10-27T07:37:15.521Z
+date: 2021-10-27T07:37:44.774Z
 tags: presentation, index, workshop
 editor: markdown
 dateCreated: 2021-10-27T06:36:04.985Z
