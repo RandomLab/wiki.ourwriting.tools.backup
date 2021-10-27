@@ -1,8 +1,8 @@
 ---
-title: 05 Final discussion
+title: 05 Discussion
 description: WORKSHOP in EKA, DAY 02-PM
 published: true
-date: 2021-10-26T14:41:09.113Z
+date: 2021-10-27T07:35:35.650Z
 tags: eka, presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
