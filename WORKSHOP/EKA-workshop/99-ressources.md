@@ -2,7 +2,7 @@
 title: 99 Ressources
 description: 
 published: true
-date: 2021-10-26T14:38:33.064Z
+date: 2021-10-27T06:40:55.893Z
 tags: eka, tools
 editor: markdown
 dateCreated: 2021-10-25T13:04:22.983Z
@@ -13,3 +13,6 @@ dateCreated: 2021-10-25T13:04:22.983Z
 
 [Drawffy](https://www.youtube.com/channel/UC7MJb2p14uScMZYN4NjhbLA/null)
 - video to draw 
+
+[Open Emoji](https://openmoji.org/library/)
+- open source icons
