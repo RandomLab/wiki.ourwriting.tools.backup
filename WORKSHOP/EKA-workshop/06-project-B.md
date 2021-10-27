@@ -1,8 +1,8 @@
 ---
-title: emotional bonds
+title: 06 Project : emotional bonds
 description: 
 published: true
-date: 2021-10-27T08:15:34.325Z
+date: 2021-10-27T08:46:07.380Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T08:01:36.948Z
