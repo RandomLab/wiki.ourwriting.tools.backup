@@ -2,7 +2,7 @@
 title: guide to the wiki
 description: 
 published: true
-date: 2021-10-27T06:40:02.043Z
+date: 2021-10-27T07:17:35.860Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T05:26:23.691Z
@@ -38,6 +38,9 @@ Here a small reminder :
 
 
 More info here [wikpedia](https://en.wikipedia.org/wiki/Markdown)
+
+We can put [emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+and Diagrams []
 
 ## How to name files
 
