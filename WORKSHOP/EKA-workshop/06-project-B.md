@@ -1,8 +1,8 @@
 ---
 title: 21 Project : emotional bonds
-description: 
+description: Students project descritption
 published: true
-date: 2021-10-28T06:52:23.459Z
+date: 2021-10-28T06:54:51.009Z
 tags: presentation
 editor: markdown
 dateCreated: 2021-10-27T08:01:36.948Z
