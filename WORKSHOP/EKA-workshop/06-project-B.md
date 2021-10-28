@@ -2,7 +2,7 @@
 title: 06 Project : emotional bonds
 description: 
 published: true
-date: 2021-10-28T06:37:25.829Z
+date: 2021-10-28T06:41:49.247Z
 tags: presentation
 editor: markdown
 dateCreated: 2021-10-27T08:01:36.948Z
@@ -18,11 +18,21 @@ dateCreated: 2021-10-27T08:01:36.948Z
 
 **DAY 3**
 
-struggling in the beginning how to approach the topic
+The group has been struggling in the beginning how to approach the topic.
 
-how to start ideating. made sure that they agree on the topic. emotional bond - creativity. developed those concepts. afterwards they have started sketching out the what if, visualising it. building it on the way. trying to put all elements of what we want to include. came up with different ideas. creating a social link about the rituals (individual, or social) #emotionalbond #privatespace #personalexperience 
+How to start ideating? They made sure that they agree on the topic. Emotional bond has a strong bond with creativity. They have developed several concepts. Afterwards they have started sketching out the "what if" questions, visualising it. Building it on the way. Trying to put all elements of what we want to include. The group is creating a social link about the rituals (individual, or social) #emotionalbond #privatespace #personalexperience 
 
-grocery list - we cook at this day at this hour - it is about talking and discussing how to cook things.  what is a ritual? why is it important to share?
+Grocery list - we cook at this day at this hour - it is about talking and discussing how to cook things.  The questions that they have discussed during the **day 3** : what is a ritual? why is it important to share?
+
+![img_8660.jpg](/day-3/img_8660.jpg)
+
+![img_8660.jpg](/day-3/img_8661.jpg)
+
+![img_8660.jpg](/day-3/img_8662.jpg)
+
+![img_8660.jpg](/day-3/img_8663.jpg)
+
+![img_8660.jpg](/day-3/img_8664.jpg)
 
 
 
