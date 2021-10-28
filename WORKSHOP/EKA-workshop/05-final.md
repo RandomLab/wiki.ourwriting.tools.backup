@@ -2,7 +2,7 @@
 title: 05 Discussion
 description: WORKSHOP in EKA, DAY 02-PM
 published: true
-date: 2021-10-27T13:21:24.071Z
+date: 2021-10-28T06:55:39.138Z
 tags: eka, presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
@@ -84,3 +84,8 @@ dateCreated: 2021-10-26T13:54:52.859Z
 - saying words does not mean that they have meaning
 
 - discover other ideas in the group
+
+
+# DAY 4 (28.10.2021)
+
+1. introduction of Google Design Sprint (day 2) that is called "Four-Step Sketch)
