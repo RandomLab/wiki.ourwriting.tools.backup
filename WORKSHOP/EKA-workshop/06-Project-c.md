@@ -2,7 +2,7 @@
 title: 06 Project : work/life balance
 description: 
 published: true
-date: 2021-10-28T06:46:54.002Z
+date: 2021-10-28T06:48:27.672Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T08:50:31.556Z
@@ -11,3 +11,7 @@ dateCreated: 2021-10-27T08:50:31.556Z
 ## work/life balance
 
 **DAY 3**
+
+![img_8665.jpg](/day-3/img_8665.jpg)
+
+![img_8665.jpg](/day-3/img_8666.jpg)
