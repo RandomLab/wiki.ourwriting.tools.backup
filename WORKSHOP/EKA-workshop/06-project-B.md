@@ -2,7 +2,7 @@
 title: 06 Project : emotional bonds
 description: 
 published: true
-date: 2021-10-28T06:35:33.406Z
+date: 2021-10-28T06:37:25.829Z
 tags: presentation
 editor: markdown
 dateCreated: 2021-10-27T08:01:36.948Z
@@ -24,11 +24,6 @@ how to start ideating. made sure that they agree on the topic. emotional bond - 
 
 grocery list - we cook at this day at this hour - it is about talking and discussing how to cook things.  what is a ritual? why is it important to share?
 
-![img_8655.jpg](/day-3/img_8656.jpg)
-
-![img_8657.jpg](/day-3/img_8657.jpg)
-
-![img_8657.jpg](/day-3/img_8658.jpg)
 
 
 
