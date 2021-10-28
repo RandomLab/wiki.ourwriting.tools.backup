@@ -2,7 +2,7 @@
 title: 05 Discussion
 description: WORKSHOP in EKA, DAY 02-PM
 published: true
-date: 2021-10-28T06:56:15.606Z
+date: 2021-10-28T06:58:25.423Z
 tags: eka, presentation, teams
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
@@ -89,3 +89,7 @@ dateCreated: 2021-10-26T13:54:52.859Z
 # DAY 4 (28.10.2021)
 
 1. introduction of Google Design Sprint that is called "Four-Step Sketch"
+
+![img_8668.jpg](/day-3/img_8668.jpg)
+
+![img_8668.jpg](/day-3/img_8669.jpg)
