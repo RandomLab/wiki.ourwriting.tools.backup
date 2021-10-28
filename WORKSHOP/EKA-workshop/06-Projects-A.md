@@ -1,8 +1,8 @@
 ---
-title: 06 Project: social behaviour online, politics
-description: 
+title: 23 Project: social behaviour online, politics
+description: Students project descritption
 published: true
-date: 2021-10-28T06:37:56.682Z
+date: 2021-10-28T06:56:32.074Z
 tags: projects
 editor: markdown
 dateCreated: 2021-10-27T07:52:07.971Z
