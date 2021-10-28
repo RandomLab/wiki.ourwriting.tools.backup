@@ -2,7 +2,7 @@
 title: 06 Project: social behaviour online, politics
 description: 
 published: true
-date: 2021-10-27T13:39:03.316Z
+date: 2021-10-28T06:37:56.682Z
 tags: projects
 editor: markdown
 dateCreated: 2021-10-27T07:52:07.971Z
@@ -19,3 +19,9 @@ The issue was our misunderstanding on the reason we are here, together in this w
 After this long discussion, and sharing the insights we gained from the interview realised that day with Annie Abrahams and Ülo Vihma, we voted on our ideas with a method called *dotmocracy*. We settled on the following theme :
 *Create a platform that adapts to different situation*
 Tomorrow we will have to define more precisely the theme we choose, before sketching new ideas.
+
+![img_8655.jpg](/day-3/img_8656.jpg)
+
+![img_8657.jpg](/day-3/img_8657.jpg)
+
+![img_8657.jpg](/day-3/img_8658.jpg)
