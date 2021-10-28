@@ -2,7 +2,7 @@
 title: 06 Project : emotional bonds
 description: 
 published: true
-date: 2021-10-28T06:35:20.273Z
+date: 2021-10-28T06:35:33.406Z
 tags: presentation
 editor: markdown
 dateCreated: 2021-10-27T08:01:36.948Z
