@@ -2,8 +2,8 @@
 title: 05 Discussion
 description: WORKSHOP in EKA, DAY 02-PM
 published: true
-date: 2021-10-28T07:27:32.292Z
-tags: eka, presentation, teams
+date: 2021-10-28T07:27:33.891Z
+tags: presentation, teams, eka
 editor: markdown
 dateCreated: 2021-10-26T13:54:52.859Z
 ---

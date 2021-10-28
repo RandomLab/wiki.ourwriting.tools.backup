@@ -2,7 +2,7 @@
 title: guide to the wiki
 description: 
 published: true
-date: 2021-10-27T07:27:02.464Z
+date: 2021-10-27T07:27:03.881Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T05:26:23.691Z

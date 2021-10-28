@@ -2,7 +2,7 @@
 title: 01 Sharing experiences
 description: WORKSHOP in EKA, DAY 01-AM
 published: true
-date: 2021-10-26T14:29:07.849Z
+date: 2021-10-26T14:29:09.196Z
 tags: eka
 editor: markdown
 dateCreated: 2021-10-25T11:53:49.817Z

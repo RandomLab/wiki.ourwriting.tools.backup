@@ -2,7 +2,7 @@
 title: 04 Interviews with designers
 description: WORKSHOP in EKA, DAY 02-PM
 published: true
-date: 2021-10-26T14:38:34.391Z
+date: 2021-10-26T14:38:35.975Z
 tags: interviews
 editor: markdown
 dateCreated: 2021-10-26T11:22:47.561Z

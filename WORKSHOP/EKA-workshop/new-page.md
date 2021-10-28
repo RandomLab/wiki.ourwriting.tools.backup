@@ -2,7 +2,7 @@
 title: 06 
 description: WORKSHOP in EKA, DAY 03-AM
 published: true
-date: 2021-10-28T07:35:03.157Z
+date: 2021-10-28T07:35:04.826Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-28T07:35:03.157Z

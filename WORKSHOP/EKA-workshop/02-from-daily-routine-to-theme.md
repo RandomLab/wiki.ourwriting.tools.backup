@@ -2,7 +2,7 @@
 title: 02 From daily routine to theme
 description: WORKSHOP in EKA, DAY 01-PM
 published: true
-date: 2021-10-26T14:33:17.601Z
+date: 2021-10-26T14:33:19.038Z
 tags: eka
 editor: markdown
 dateCreated: 2021-10-25T12:56:04.158Z

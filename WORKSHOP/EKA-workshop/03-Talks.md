@@ -2,8 +2,8 @@
 title: 03 Inspirative Talks
 description: WORKSHOP in EKA, DAY 02-AM
 published: true
-date: 2021-10-26T14:33:43.899Z
-tags: eka, talks, presentation
+date: 2021-10-26T14:33:45.310Z
+tags: talks, presentation, eka
 editor: markdown
 dateCreated: 2021-10-26T08:21:15.754Z
 ---

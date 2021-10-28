@@ -2,7 +2,7 @@
 title: 24 Project : work/life balance
 description: Students project descritption
 published: true
-date: 2021-10-28T06:57:01.795Z
+date: 2021-10-28T06:57:03.339Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T08:50:31.556Z
